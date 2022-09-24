@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="148px"
+   height="26px"
+   viewBox="0 0 148 26"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="68.766134"
+     inkscape:cy="2.3864854"
+     inkscape:window-width="1868"
+     inkscape:window-height="1016"
+     inkscape:window-x="52"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22">
+    <sodipodi:guide
+       position="43.161056,49.675911"
+       orientation="0,-1"
+       id="guide32549" />
+  </sodipodi:namedview>
+  <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+  <title
+     id="title2">Plusadmin_logo Copy</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:24.7123px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.617806"
+     x="34.765709"
+     y="18.830303"
+     id="text13414"
+     transform="scale(0.94470348,1.0585332)"><tspan
+       sodipodi:role="line"
+       id="tspan13412"
+       x="34.765709"
+       y="18.830303"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS';stroke:#000000;stroke-width:0.617806">MySiakad</tspan></text>
+  <path
+     style="fill:#000080;stroke:none;stroke-width:0.537182;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0.9996886,0.90517982 27.716359,0.89308919 24.614788,5.4164532 10.684116,5.2721535 l 3.7153,6.9560455 -3.934722,8.162313 14.132139,-0.08703 3.069559,4.203078 -26.437724,0.08873 7.039885,-12.354144 z"
+     id="path31064"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="fill:#ff0000;stroke:none;stroke-width:0.537182;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 18.384316,7.1627727 h 5.445992 l -3.242131,5.0783803 3.340192,6.498043 h -5.452007 l -3.173522,-6.65766 z"
+     id="path32220"
+     sodipodi:nodetypes="ccccccc" />
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="25px"
+   height="26px"
+   viewBox="0 0 25 26"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="logo-mini.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs27" />
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8"
+     inkscape:cx="13.125"
+     inkscape:cy="9.5625"
+     inkscape:window-width="1868"
+     inkscape:window-height="1016"
+     inkscape:window-x="52"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="13.435029,13.63668"
+       orientation="0,-1"
+       id="guide925" />
+  </sodipodi:namedview>
+  <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+  <title
+     id="title2">Plusadmin_mini</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <path
+     style="fill:#000080;stroke:none;stroke-width:0.497893;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0.42777021,1.6805998 24.748419,1.6691899 21.925005,5.9379116 9.2436721,5.8017353 12.625775,12.36619 9.0439282,20.069007 21.90866,19.986876 24.702933,23.953341 0.63621376,24.037077 7.044743,12.378408 Z"
+     id="path31064"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="fill:#ff0000;stroke:none;stroke-width:0.497893;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 16.24015,7.7214583 h 4.957581 l -2.927575,4.6418617 3.016842,6.282867 H 16.323941 L 13.435029,12.36332 Z"
+     id="path32220"
+     sodipodi:nodetypes="ccccccc" />
+</svg>

@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>/tijket/assets/styles/about_styles.css">
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>/tijket/assets/styles/about_responsive.css">

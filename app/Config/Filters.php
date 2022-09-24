@@ -1,0 +1,73 @@
+<?php
+
+namespace Config;
+
+use CodeIgniter\Config\BaseConfig;
+use CodeIgniter\Filters\CSRF;
+use CodeIgniter\Filters\DebugToolbar;
+use CodeIgniter\Filters\Honeypot;
+use App\Filters\Authentication;
+// use App\Filters\Stikom_authentication;
+// use App\Filters\Mahasiswa_authentication;
+use App\Filters\Cors;
+use App\Filters\AuthenticationApi;
+
+class Filters extends BaseConfig
+{
+    /**
+     * Configures aliases for Filter classes to
+     * make reading things nicer and simpler.
+     *
+     * @var array
+     */
+    public $aliases = [
+        'csrf'     => CSRF::class,
+        'toolbar'  => DebugToolbar::class,
+        'honeypot' => Honeypot::class,
+        'authentication' => Authentication::class,
+        // 'authentication_stikom' => Stikom_authentication::class,
+        // 'authentication_mahasiswa' => Mahasiswa_authentication::class,
+        'cors'     => Cors::class,
+        'api-authentication' => AuthenticationApi::class,
+    ];
+
+    /**
+     * List of filter aliases that are always
+     * applied before and after every request.
+     *
+     * @var array
+     */
+    public $globals = [
+        'before' => [
+            // 'honeypot',
+            // 'csrf',
+            'cors'
+        ],
+        'after' => [
+            'toolbar',
+            // 'honeypot',
+        ],
+    ];
+
+    /**
+     * List of filter aliases that works on a
+     * particular HTTP method (GET, POST, etc.).
+     *
+     * Example:
+     * 'post' => ['csrf', 'throttle']
+     *
+     * @var array
+     */
+    public $methods = [];
+
+    /**
+     * List of filter aliases that should run on any
+     * before or after URI patterns.
+     *
+     * Example:
+     * 'isLoggedIn' => ['before' => ['account/*', 'profiles/*']]
+     *
+     * @var array
+     */
+    public $filters = [];
+}

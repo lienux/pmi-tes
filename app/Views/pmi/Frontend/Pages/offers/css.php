@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>/tijket/assets/styles/offers_styles.css">
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>/tijket/assets/styles/offers_responsive.css">
